@@ -21,3 +21,6 @@ Enlaza tu repositorio local con el repositorio remoto de GitHub usando el comand
 
 5. Sube tu proyecto a GitHub 
 Finalmente, envía tus archivos al repositorio remoto con el comando git push -u origin main. Si tu rama principal se llama diferente (por ejemplo, master), reemplaza main por el nombre de tu rama.
+
+//Crear un archivo GIt ignore y añadir en él la carpeta reto_" y todas las imagenes.
+al Hacerlo y subir de nuevo el proyecto, se han subidos todos los archivos excepto lo que metimos dentro de este archivo .gitignore.
